@@ -20,8 +20,8 @@
   height: 500px;
   width: 500px;
   background-color: #0C2340;
-  border-radius: 50%;
-  display: inline-block;
+  border-radius:150px;
+  /* display: inline-block; */
   opacity: 1.0;
-  shape-inside: circle() margin-box;
+  /* shape-outside: circle() margin-box; */
 }
