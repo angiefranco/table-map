@@ -4,9 +4,24 @@
   background-color: #0C2340;
   border-radius: 50%;
   display: inline-block;
+  opacity: 0.5;
+}
+.dot:hover{
+  opacity: 1.0;
+
 }
 
 .cell {
   float: center; /*Add this*/
   margin-right: 9px; /*Add this*/
+}
+
+
+.bigdot {
+  height: 500px;
+  width: 500px;
+  background-color: #0C2340;
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 1.0;
 }
