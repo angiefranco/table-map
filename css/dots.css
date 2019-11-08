@@ -16,12 +16,12 @@
   margin-right: 9px; /*Add this*/
 }
 
-
-.bigdot {
+.table {
   height: 500px;
   width: 500px;
   background-color: #0C2340;
   border-radius: 50%;
   display: inline-block;
   opacity: 1.0;
+  shape-inside: circle() margin-box;
 }
