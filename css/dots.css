@@ -22,10 +22,11 @@
   height: 500px;
   width: 500px;
   background-color: #0C2340;
+  display: inline-block;
   border-radius:150px;
   opacity: 1.0;
   line-height: 500px;
-  text-align: center;
+  text-align:center;
 }
 
 .circle-text {
