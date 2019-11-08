@@ -5,6 +5,8 @@
   border-radius: 50%;
   display: inline-block;
   opacity: 0.5;
+  line-height: 100px;
+  text-align: center;
 }
 .dot:hover{
   opacity: 1.0;
@@ -21,7 +23,7 @@
   width: 500px;
   background-color: #0C2340;
   border-radius:150px;
-  /* display: inline-block; */
   opacity: 1.0;
-  /* shape-outside: circle() margin-box; */
+  line-height: 500px;
+  text-align: center;
 }
