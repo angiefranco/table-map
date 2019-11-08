@@ -5,3 +5,8 @@
   border-radius: 50%;
   display: inline-block;
 }
+
+.cell {
+  float: center; /*Add this*/
+  margin-right: 9px; /*Add this*/
+}
